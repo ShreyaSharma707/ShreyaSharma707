@@ -147,19 +147,7 @@ Bachelor of Technology in Computer Science and Engineering | **CGPA: 8.6/10** �
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-sharma&show_icons=true&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF69B4&icon_color=FF69B4&text_color=663366" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-sharma&theme=dracula&hide_border=true&background=FFE5F1&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-sharma&layout=compact&theme=dracula&hide_border=true&bg_color=FFE5F1&title_color=FF69B4&text_color=663366" alt="Top Languages" />
-</div>
-
----
 
 ## 💝 Interests & Hobbies
 
