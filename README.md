@@ -42,7 +42,6 @@ const shreya = {
         ai: ["Gemini API", "TensorFlow", "Generative AI"]
     },
     currentFocus: "Building AI-powered applications ✨",
-    funFact: "1000+ Chess.com rating & love outdoor sports! 🌟"
 };
 ```
 
