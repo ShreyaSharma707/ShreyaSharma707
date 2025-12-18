@@ -15,7 +15,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shreya-sharma-98589b250/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FFB6C1.svg?logo=github&logoColor=black&style=for-the-badge)](https://github.com/shreya-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-%23FFB6C1.svg?logo=github&logoColor=black&style=for-the-badge)](https://github.com/ShreyaSharma707)
 [![Email](https://img.shields.io/badge/Email-FF69B4?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shreyasharma.shree13@gmail.com)
 
 </div>
