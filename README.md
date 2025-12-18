@@ -29,7 +29,7 @@
 ```javascript
 const shreya = {
     location: "Dehradun, India 🇮🇳",
-    education: "VIT - CSE (CGPA: 8.6) 📚",
+    education: "VIT - CSE 📚",
     role: "Full-Stack Developer 💻",
     pronouns: "she/her",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
@@ -42,7 +42,6 @@ const shreya = {
         ai: ["Gemini API", "TensorFlow", "Generative AI"]
     },
     currentFocus: "Building AI-powered applications ✨",
-    hobbies: ["Chess ♟️", "Photography 📸", "Music 🎵"],
     funFact: "1000+ Chess.com rating & love outdoor sports! 🌟"
 };
 ```
