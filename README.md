@@ -65,7 +65,7 @@ Bachelor of Technology in Computer Science and Engineering
 
 ### <img src="https://img.shields.io/badge/SmartBridge-Full_Stack_Developer-FF69B4?style=for-the-badge" height="28px"> 
 
-**Full-Stack Developer** ✨ | *Mar 2025 - May 2025* | Hydrabad, Telengana 🌍
+**Full-Stack Developer** ✨ | *Mar 2025 - May 2025* | Hyderabad, Telengana 🌍
 
 
 </div>
