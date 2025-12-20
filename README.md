@@ -40,8 +40,6 @@ const shreya = {
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         devOps: ["AWS", "GCP", "Docker", "CI/CD", "Nginx"],
         ai: ["Gemini API", "TensorFlow", "Generative AI"]
-    },
-    currentFocus: "Building AI-powered applications ✨",
 };
 ```
 
@@ -52,7 +50,7 @@ const shreya = {
 <div style="background: linear-gradient(135deg, #FFE5F1 0%, #FFB6D9 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border: 2px solid #FF69B4;">
 
 **Vellore Institute of Technology** 🎓 | *Sep 2022 - May 2026*  
-Bachelor of Technology in Computer Science and Engineering | **CGPA: 8.6/10** ⭐
+Bachelor of Technology in Computer Science and Engineering
 </div>
 
 ---
