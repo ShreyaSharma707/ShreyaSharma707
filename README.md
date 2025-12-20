@@ -53,9 +53,6 @@ const shreya = {
 
 **Vellore Institute of Technology** 🎓 | *Sep 2022 - May 2026*  
 Bachelor of Technology in Computer Science and Engineering | **CGPA: 8.6/10** ⭐
-
-**Relevant Coursework:** Data Structures & Algorithms, OOP, DBMS, Software Engineering, Computer Networks, OS, Web Technologies, Machine Learning
-
 </div>
 
 ---
@@ -70,11 +67,8 @@ Bachelor of Technology in Computer Science and Engineering | **CGPA: 8.6/10** �
 
 ### <img src="https://img.shields.io/badge/SmartBridge-Full_Stack_Developer-FF69B4?style=for-the-badge" height="28px"> 
 
-**Full-Stack Developer** ✨ | *Mar 2025 - May 2025* | Remote 🌍
+**Full-Stack Developer** ✨ | *Mar 2025 - May 2025* | Hydrabad, Telengana 🌍
 
-- 🚀 Developed expense tracking application with **React, Node.js, and MongoDB**, processing **1000+ transactions**
-- 🤖 Engineered **generative AI features** for automated expense categorization, reducing manual data entry by **60%**
-- ⚡ Enhanced MongoDB schemas and indexing strategies, accelerating query performance by **40%**
 
 </div>
 
@@ -146,18 +140,6 @@ Bachelor of Technology in Computer Science and Engineering | **CGPA: 8.6/10** �
 </div>
 
 
-
-## 💝 Interests & Hobbies
-
-<div align="center">
-<div style="background: linear-gradient(135deg, #FFE5F1 0%, #FFF0F8 100%); padding: 30px; border-radius: 15px; margin: 20px 0; border: 2px solid #FF69B4;">
-
-♟️ **Competitive Chess** - Strategic thinking & problem-solving  
-🏃 **Outdoor Sports** - Badminton & fitness enthusiast  
-✍️ **Technical Writing** - Sharing knowledge & insights  
-🎵 **Music** - Exploring different genres  
-📸 **Photography** - Capturing beautiful moments  
-🌸 **Innovation** - Always learning & growing
 
 </div>
 </div>
