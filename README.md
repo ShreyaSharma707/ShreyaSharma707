@@ -1,5 +1,3 @@
-# 💫 Shreya Sharma - Full Stack Developer
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%8C%B8+I'm+Shreya+Sharma;Full-Stack+Developer+%E2%9C%A8)
