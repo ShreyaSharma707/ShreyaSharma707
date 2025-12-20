@@ -142,25 +142,6 @@ Bachelor of Technology in Computer Science and Engineering
 </div>
 </div>
 
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="mailto:shreyasharma.shree13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/shreya-sharma">
-  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="https://github.com/shreya-sharma">
-  <img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%">
 
 ### 💬 *"Code is poetry written in logic."* ✨
 
