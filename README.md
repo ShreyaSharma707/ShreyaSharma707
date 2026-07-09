@@ -35,16 +35,16 @@ const shreya = {
     role: "Full-Stack Developer 💻",
     pronouns: "she/her",
     code: [
+        "Java", 
         "JavaScript", 
-        "TypeScript", 
         "Python", 
-        "Java"
+        "TypeScript"
     ],
     askMeAbout: [
         "Web Dev", 
         "AI Integration", 
         "Cloud", 
-        "Chess ♟️"
+        "Sports"
     ],
     technologies: {
         frontend: [
@@ -61,8 +61,8 @@ const shreya = {
         ],
         databases: [
             "MongoDB", 
-            "PostgreSQL", 
             "MySQL", 
+            "PostgreSQL", 
             "Redis"
         ],
         devOps: [
@@ -105,7 +105,7 @@ const shreya = {
 ```diff
 @@                    Vellore Institute of Technology                    @@
 +                Bachelor of Technology in Computer Science              +
-#                        Sep 2022 - May 2026 🎓                          #
+#                        Oct 2022 - May 2026 🎓                          #
 ```
 
 </div>
@@ -124,7 +124,7 @@ const shreya = {
   
   ### ![SmartBridge](https://img.shields.io/badge/SmartBridge-Full_Stack_Developer-FF69B4?style=for-the-badge)
   
-  **Full-Stack Developer** ✨ | *Mar 2025 - May 2025* | Hyderabad, Telengana 🌍
+  **Full-Stack Developer** ✨ | *Jan 2025 - April 2025* | Hyderabad, Telengana 🌍
 
 </div>
 
