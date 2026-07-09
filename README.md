@@ -124,7 +124,7 @@ const shreya = {
   
   ### ![SmartBridge](https://img.shields.io/badge/SmartBridge-Full_Stack_Developer-FF69B4?style=for-the-badge)
   
-  **Full-Stack Developer** ✨ | *Jan 2025 - April 2025* | Hyderabad, Telengana 🌍
+  **Full-Stack Developer** ✨ | *Jan 2025 - April 2025* | Remote 🌍
 
 </div>
 
