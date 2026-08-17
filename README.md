@@ -4,7 +4,7 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications+%F0%9F%92%96;Full-Stack+Developer+%7C+AI+Enthusiast;Always+Learning+New+Technologies+%E2%9C%A8;Passionate+About+Innovation+%F0%9F%8C%9F)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Full-Stack+Developer+%7C+AI+Enthusiast;Always+Learning+New+Technologies+%E2%9C%A8;Passionate+About+Innovation+%F0%9F%8C%9F)
   
 </div>
 
@@ -62,15 +62,13 @@ const shreya = {
         databases: [
             "MongoDB", 
             "MySQL", 
-            "PostgreSQL", 
-            "Redis"
+            "PostgreSQL"
         ],
         devOps: [
             "AWS", 
             "GCP", 
             "Docker", 
-            "CI/CD", 
-            "Nginx"
+            "CI/CD"
         ],
         ai: [
             "Gemini API", 
